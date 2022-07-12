@@ -1,0 +1,12 @@
+
+body {
+    text-align: center;
+    background-color: #00000080;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+a {
+    color: red;
+}
