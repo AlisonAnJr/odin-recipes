@@ -1,12 +1,14 @@
 
-body {
+
+*{
     text-align: center;
-    background-color: #00000080;
+    background-color: #3835351e;
+    border: 2px solid red;
 }
 img {
     height: auto;
     width: 500px;
 }
 a {
-    color: red;
+    color: rgb(21, 12, 151);
 }
